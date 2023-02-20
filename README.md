@@ -1,11 +1,11 @@
-# Device tree for Xiaomi 12T (plato)
+# Device tree for Xiaomi 12T (plato) - MT6895
 --------------------------------------------
-## Xiaomi 12T_22071212AG -SP1A.210812.016 - V13.0.7.0.SLQIDXM- plato - mt6895
+### Files from: `22071212AG` - SP1A.210812.016 - V13.0.7.0.SLQIDXM - `plato` - MediaTek Dimensity 8100 Ultra
 
 ## Specs: [Xiaomi 12T](https://www.devicespecifications.com/en/model/9dcb5abd)
 
 ## Status
-   - User 4pda Testing
+   - [dimap2000](https://4pda.to/forum/index.php?showuser=10698781) user 4pda Testing
 
 
 ### Building
