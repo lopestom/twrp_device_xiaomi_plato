@@ -20,6 +20,10 @@ DEVICE_PATH := device/xiaomi/plato
 PRODUCT_SHIPPING_API_LEVEL := 31
 PRODUCT_TARGET_VNDK_VERSION := 31
 
+# Virtual A/B
+ENABLE_VIRTUAL_AB := true
+$(call inherit-product, $(SRC_TARGET_DIR)/product/virtual_ab_ota.mk)
+
 # A/B
 AB_OTA_UPDATER := true
 AB_OTA_PARTITIONS += \
@@ -103,4 +107,4 @@ PRODUCT_PACKAGES += \
 #    $(DEVICE_PATH)/security/miui_releasekey
 
 # Soong namespaces
-PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
+#PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
