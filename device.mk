@@ -99,8 +99,8 @@ PRODUCT_PACKAGES += \
     mtk_plpath_utils.recovery
 
 # Otacert
-PRODUCT_EXTRA_RECOVERY_KEYS += \
-    $(DEVICE_PATH)/security/miui_releasekey
+#PRODUCT_EXTRA_RECOVERY_KEYS += \
+#    $(DEVICE_PATH)/security/miui_releasekey
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += $(DEVICE_PATH)
