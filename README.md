@@ -6,7 +6,8 @@
 
 ## Status
    - [dimap2000](https://4pda.to/forum/index.php?showuser=10698781) user 4pda Testing
-
+   - Starting - enc_dec; touch; vibrator working
+   - [Pictures](https://4pda.to/forum/index.php?act=findpost&pid=121017757&anchor=Spoil-121017757-1)
 
 ### Building
 ```
