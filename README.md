@@ -7,7 +7,18 @@
 ## Status
    - [dimap2000](https://4pda.to/forum/index.php?showuser=10698781) user 4pda Testing
    - Starting - enc_dec; touch; vibrator working
-   - [Pictures](https://4pda.to/forum/index.php?act=findpost&pid=121017757&anchor=Spoil-121017757-1)
+   - [TWRP Pictures from dimap2000](https://4pda.to/forum/index.php?act=findpost&pid=121017757&anchor=Spoil-121017757-1)
+
+<details><summary>TWRP Pictures - Click to open</summary>
+<p>
+
+![TWRP Menu](https://github.com/lopestom/twrp_device_xiaomi_plato/releases/download/TWP3.7.0_12/IMG20230221195841.jpg)
+
+![TWRP decrypting](https://github.com/lopestom/twrp_device_xiaomi_plato/releases/download/TWP3.7.0_12/IMG20230221200057.jpg)
+
+![TWRP Install Zip](https://github.com/lopestom/twrp_device_xiaomi_plato/releases/download/TWP3.7.0_12/IMG20230221200121.jpg)
+</p>
+</details>
 
 ### Building
 ```
