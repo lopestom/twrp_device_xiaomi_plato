@@ -7,11 +7,15 @@
 ## Specs: [Xiaomi 12T](https://www.devicespecifications.com/en/model/9dcb5abd)
 
 ## Status
-   - [dimap2000](https://4pda.to/forum/index.php?showuser=10698781) user 4pda Testing
+   - [Samatulli](https://4pda.to/forum/index.php?showuser=4996511) user 4pda Testing
    - Starting - enc_dec; touch; vibrator working
    - [TWRP Pictures from dimap2000](https://)
 
+
 #### These DT have some different informations and need compile new TWRP for MIUI14.
+
+
+
 
 <details><summary>TWRP Pictures - Click to open</summary>
 <p>
