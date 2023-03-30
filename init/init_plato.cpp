@@ -30,6 +30,6 @@ void vendor_load_properties()
         property_override(string("ro.product.") + prop + string("model"), "22071212AG");
         property_override(string("ro.product.") + prop + string("marketname"), "Xiaomi 12T");
     }
-    property_override("ro.bootimage.build.date.utc", "1673291882");
-    property_override("ro.build.date.utc", "1673291882");
+    property_override("ro.vendor.build.date.utc", "1675777197");
+    property_override("ro.build.date.utc", "1675777197");
 }
